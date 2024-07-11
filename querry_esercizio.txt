@@ -60,6 +60,6 @@ AND `surname` = 'Rizzo';
 11. Eliminare dalla tabella studenti il record creato precedentemente al punto 9
 
 DELETE FROM `students` 
-WHERE `name` = 'Sebastiano Davide'
-AND `surname` = 'Alesci'
+WHERE `name` = 'Alberto'
+AND `surname` = 'Corti'
 AND `registration_number` = '625033';
